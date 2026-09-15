@@ -31,7 +31,7 @@ Hung-Pin Wen
 
 ### Exercise 1-2: Print a Triangle
 
-Rules: Use `std::cout` only. No input, loops, or variables.
+Rules: Use `std::cout` only. No input, loops, or variables.  
 Do not print the ruler line (numbers); it's for alignment only.
 
 ```
