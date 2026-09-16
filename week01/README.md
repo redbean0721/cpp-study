@@ -1,5 +1,5 @@
 # Week 01
-Sep 9, 2026 (Mon)
+Sep 7, 2026 (Mon)
 
 ## Course Syllabus & Getting Started with C++
 
