@@ -20,9 +20,10 @@ Area with explicit casting = 78.5397
 Rules: Write a C++ program to calculate the inverse of a 2x2 matrix.
 
 Given a 2x2 matrix:
+
 $$
 \begin{bmatrix}
-a & b \\\\
+a & b \\
 c & d
 \end{bmatrix}
 $$
@@ -37,7 +38,7 @@ and the inverse matrix is:
 
 $$
 A^{-1} = \frac{1}{\text{det}(A)} \begin{bmatrix}
-d & -b \\\\
+d & -b \\
 -c & a
 \end{bmatrix}
 $$
